@@ -1,0 +1,82 @@
+{
+  "header": {
+    "a1": "Uy",
+    "a2": "Biz haqimizda",
+    "a3": "Mashinalar",
+    "a4": "Aloqa"
+  },
+  "main": {
+    "section1": {
+      "p": "Dubay importi dunyosiga xush kelibsiz!",
+      "h1": "XUSH KELIBSIZ",
+      "button": "Batafsil"
+    },
+    "section2": {
+      "b": "Ulashish"
+    },
+    "section3": {
+      "h1": "Biz haqimizda: dubaymotor.uz - Siz hashamatga loyiqsiz!",
+      "p1": "Dubaymotors da biz shunchaki avtomobil sotuvchisi emasmiz; biz sizning orzularingizning me'morlarimiz. Aniqlikka bo'lgan ishtiyoq, mukammallikka intilish va g'ayrioddiy narsalarga tinimsiz intilish bilan biz o'zimizni Dubaydan hashamatli avtomobillarni import qilish uchun asosiy manzil sifatida ko'rsatdik",
+      "h6": "Tashkil topishimiz:",
+      "p2": "2023- yilda tashkil etilgan bizning sayohatimiz Dubay avtomobil sanoatining boyligi va innovatsiyasini sizga yaqinlashtirishdan boshlandi. O'zining farovonligi va istiqbolliligi bilan mashhur bo'lgan Dubay eng nufuzli avtomobil ishlab chiqaruvchilari uchun global markaz bo'lib xizmat qiladi. Biz ushbu yorqin shahardagi avtomobillarni butun dunyo bo'ylab biluvchilar uchun ochiq qilishga kirishdik"
+    },
+    "section4": {
+      "h2": "Mashinalar",
+      "button": "Batafsil"
+    },
+    "section5": {
+      "h2": "Bizning Jamoa",
+      "name1": "Jasur Saidinov",
+      "work1": "Sotuv menejeri",
+      "name2": "Aziz Maqsudov",
+      "work2": "Direktor",
+      "name3": "Jasurbek Jamolov",
+      "work3": "SMM va Web Menejer",
+      "name4": "Hasan Abduqaxxorov",
+      "work4": "Texnik xodim"
+    },
+    "section6": {
+      "h2": "Qiziqmi? Keling gaplashamiz",
+      "btn1": "Aloqa formasi",
+      "btn2": "Google Xarita",
+      "btn3": "Mening Izohlarim",
+      "inpLabel1": "Ism",
+      "inpPlec1": "Ismingiz",
+      "inpLabel2": "Telefon",
+      "inpLabel3": "Xabar kiriting",
+      "inpPlec3": "Byd Xan haqida malumot bera olasizmi? ...",
+      "formbtn": "Yuborish"
+    }
+  },
+  "footer": {
+    "footertop": {
+      "h2": "Havolalar",
+      "h22": "Savollaringiz bormi?",
+      "h222": "Manzil",
+      "p": "Toshkent shahri, Olmazor tumani, kichik halqa yo'li 1 mo'ljal: Turin politexnika universiteti ro'parasi"
+    },
+    "footerbottom": {
+      "created": "developed by",
+      "a1": "Foydalanish shartlari",
+      "a2": "Maxfiylik siyosati",
+      "a3": "Izox qoldiring"
+    }
+  },
+  "Login": {
+    "h1": "Salom, qaytganingizdan xursandmiz",
+    "h3": "Agar hisobingiz bo'lmasa, ",
+    "a": "Ro'yxatdan o'ting",
+    "plec1": "Foydalanuvchi nomi",
+    "plec2": "Parol",
+    "button": "Yuborish"
+  },
+
+  "Register": {
+    "h1": "Hisob yaratish",
+    "h3": "Agar sizda hisob bo'lsa",
+    "a": "Kirish",
+    "plec3": "Ism",
+    "plec4": "Familiya",
+    "plec5": "Yosh"
+  }
+}

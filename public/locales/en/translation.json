@@ -1,0 +1,83 @@
+{
+  "header": {
+    "a1": "Home",
+    "a2": "About Us",
+    "a3": "Cars",
+    "a4": "Communication"
+  },
+  "main": {
+    "section1": {
+      "p": "Welcome to the world of Dubai Imports!",
+      "h1": "WELCOME",
+      "button": "More"
+    },
+    "section2": {
+      "b": "Share:"
+    },
+    "section3": {
+      "h1": "About us: dubaymotor.uz - You deserve luxury!",
+      "p1": "At Dubaimotors, we are not just a car dealer; we are the architects of your dreams. With a passion for precision, a quest for excellence and a relentless pursuit of the extraordinary, we have established ourselves as the premier destination for luxury car imports from Dubai",
+      "h6": "Our organization:",
+      "p2": "Established in 2023, our journey began by bringing the richness and innovation of Dubai's automotive industry closer to you. Known for its prosperity and outlook, Dubai serves as a global hub for some of the most prestigious automobile manufacturers. We set out to make the cars of this glittering city accessible to connoisseurs around the world"
+    },
+    "section4":{
+      "h2": "Cars",
+      "button": "More"
+    },
+    "section5":{
+      "h2":"Our Team",
+      "name1": "Jasur Saidinov",
+      "work1": "Sales manager",
+      "name2": "Aziz Maksudov",
+      "work2": "Director",
+      "name3": "Jasurbek Jamolov",
+      "work3": "SMM & Web Manager",
+      "name4": "Hasan Abdukhakharov",
+      "work4": "Technical worker"
+    },
+    "section6":{
+      "h2":"Are you interested? Let's talk",
+      "btn1": "Contact form",
+      "btn2": "Google Map",
+      "btn3": "My Comments",
+      "inpLabel1":"Name",
+      "inpPlec1": "your name",
+      "inpLabel2":"Telephone",
+      "inpLabel3": "Enter a message",
+      "inpPlec3": "Can you tell me about Byd Khan",
+      "formbtn": "Sending"  
+    }
+  },
+  "footer":{
+    "footertop":{
+      "h2": "Links",
+      "h22" : "Do you have any questions?",
+      "h222" : "Addres",
+      "p": "Tashkent city, Almazor district, small ring road 1 destination: in front of Turin Polytechnic University"
+    },
+    "footerbottom":{
+      "created": "developed by",
+      "a1": "Terms of use",
+      "a2": "Privacy Policy",
+      "a3": "Leave a comment"
+    }
+    
+  },
+  "Login":{
+    "h1": "Hi Welcome Back",
+    "h3": "If you don't have account ",
+    "a": "Register",
+    "plec1":"User Name",
+    "plec2": "Password",
+    "button": "Submit"
+  },
+  "Register":{
+    "h1": "Create anaccount",
+    "h3":"If you have account ",
+    "a": "Login",
+    "plec3": "Name",
+    "plec4": "Last Name",
+    "plec5": "Age"
+
+  }
+}

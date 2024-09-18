@@ -1,0 +1,148 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.header{
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+}
+header .container {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 0;
+  align-items: center;
+  
+}
+.nav{
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+.ul{
+  display: flex;
+  gap: 35px;
+}
+
+.hmb{
+  display: none;
+}
+.ul .li {
+  color: white;
+  font-size: large;
+  font-weight: 600;
+  &:hover{
+    color: gold;
+    transition: 0.5s;
+  }
+}
+
+select {
+  background-color: black;
+  color: gold;
+  border: 1px solid gold;
+  border-radius: 5px;
+  padding: 5px;
+  outline: none;
+}
+
+select:focus {
+  border-color: gold;
+  box-shadow: 0 0 0 2px rgba(255, 215, 0, 0.3);
+}
+
+option {
+  background-color: black;
+  color: gold;
+}
+
+@media (max-width: 735px) {
+  .nav{
+    display: none;
+  }
+  .hmb{
+    display: block;
+  }
+  .nav2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+  }
+}
+.nav2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: black;
+  color: gold;
+}
+
+.nav2 .ul2 {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav2 .li2 {
+  color: gold;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
+  display: block;
+  padding: 10px;
+  transition: color 0.3s ease;
+}
+
+.nav2 .li2:hover {
+  color: #ffd700;
+}
+
+.nav2 select {
+  background-color: black;
+  color: gold;
+  border: 1px solid gold;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  outline: none;
+  margin-top: 20px;
+}
+
+.nav2 select:focus {
+  border-color: gold;
+  box-shadow: 0 0 0 2px rgba(255, 215, 0, 0.3);
+}
+
+.nav2 option {
+  background-color: black;
+  color: gold;
+}
+
+.drawer-close-button {
+  background: transparent;
+  border: none;
+  color: gold;
+  font-size: 24px;
+  cursor: pointer;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+@media (max-width: 735px) {
+  .nav2 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 20px;
+    background-color: black;
+  }
+  .burger{
+    color: gold;
+  }
+}

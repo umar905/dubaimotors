@@ -1,0 +1,81 @@
+{
+  "header": {
+    "a1": "Inicio",
+    "a2": "Sobre Nosotros",
+    "a3": "Coches",
+    "a4": "Contacto"
+  },
+  "main": {
+    "section1": {
+      "p": "¡Bienvenido al mundo de Dubai Imports!",
+      "h1": "BIENVENIDO",
+      "button": "Más"
+    },
+    "section2": {
+      "b": "Compartir:"
+    },
+    "section3": {
+      "h1": "Sobre nosotros: dubaymotor.uz - ¡Mereces lujo!",
+      "p1": "En Dubaimotors, no somos solo un concesionario de coches; somos los arquitectos de tus sueños. Con una pasión por la precisión, una búsqueda de la excelencia y una incansable dedicación a lo extraordinario, nos hemos establecido como el destino principal para la importación de coches de lujo desde Dubái.",
+      "h6": "Nuestra organización:",
+      "p2": "Establecidos en 2023, nuestro viaje comenzó acercando la riqueza y la innovación de la industria automotriz de Dubái. Conocida por su prosperidad y visión, Dubái es un centro global para algunos de los fabricantes de automóviles más prestigiosos. Nos propusimos hacer que los coches de esta ciudad brillante fueran accesibles para los conocedores de todo el mundo."
+    },
+    "section4": {
+      "h2": "Coches",
+      "button": "Más"
+    },
+    "section5": {
+      "h2": "Nuestro Equipo",
+      "name1": "Jasur Saidinov",
+      "work1": "Gerente de Ventas",
+      "name2": "Aziz Maksudov",
+      "work2": "Director",
+      "name3": "Jasurbek Jamolov",
+      "work3": "Gerente de SMM y Web",
+      "name4": "Hasan Abdukhakharov",
+      "work4": "Técnico"
+    },
+    "section6": {
+      "h2": "¿Estás interesado? Hablemos",
+      "btn1": "Formulario de contacto",
+      "btn2": "Google Maps",
+      "btn3": "Mis comentarios",
+      "inpLabel1": "Nombre",
+      "inpPlec1": "tu nombre",
+      "inpLabel2": "Teléfono",
+      "inpLabel3": "Introduce un mensaje",
+      "inpPlec3": "¿Puedes hablarme sobre Byd Khan?",
+      "formbtn": "Enviar"
+    }
+  },
+  "footer": {
+    "footertop": {
+      "h2": "Enlaces",
+      "h22": "¿Tienes alguna pregunta?",
+      "h222": "Dirección",
+      "p": "Ciudad de Tashkent, distrito de Almazor, carretera de circunvalación pequeña 1, frente a la Universidad Politécnica de Turín"
+    },
+    "footerbottom": {
+      "created": "desarrollado por",
+      "a1": "Términos de Uso",
+      "a2": "Política de Privacidad",
+      "a3": "Dejar un comentario"
+    }
+  },
+  "Login": {
+    "h1": "Hola, bienvenido de nuevo",
+    "h3": "Si no tienes una cuenta",
+    "a": "Regístrate",
+    "plec1": "Nombre de usuario",
+    "plec2": "Contraseña",
+    "button": "Enviar"
+  },
+  "Register": {
+    "h1": "Crear una cuenta",
+    "h3": "Si tienes una cuenta",
+    "a": "Iniciar sesión",
+    "plec3": "Nombre",
+    "plec4": "Apellido",
+    "plec5": "Edad"
+  }
+}

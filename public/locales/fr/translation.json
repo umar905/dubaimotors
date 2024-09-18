@@ -1,0 +1,81 @@
+{
+  "header": {
+    "a1": "Accueil",
+    "a2": "À propos de nous",
+    "a3": "Voitures",
+    "a4": "Contact"
+  },
+  "main": {
+    "section1": {
+      "p": "Bienvenue dans le monde de Dubai Imports !",
+      "h1": "BIENVENUE",
+      "button": "En savoir plus"
+    },
+    "section2": {
+      "b": "Partager :"
+    },
+    "section3": {
+      "h1": "À propos de nous : dubaymotor.uz - Vous méritez le luxe !",
+      "p1": "Chez Dubaimotors, nous ne sommes pas seulement un concessionnaire automobile ; nous sommes les architectes de vos rêves. Avec une passion pour la précision, une quête d'excellence et une recherche incessante de l'extraordinaire, nous nous sommes établis comme la destination principale pour l'importation de voitures de luxe en provenance de Dubaï.",
+      "h6": "Notre organisation :",
+      "p2": "Fondée en 2023, notre aventure a commencé en rapprochant la richesse et l'innovation de l'industrie automobile de Dubaï. Connue pour sa prospérité et son avant-gardisme, Dubaï est un centre mondial pour certains des constructeurs automobiles les plus prestigieux. Nous nous efforçons de rendre les voitures de cette ville scintillante accessibles aux connaisseurs du monde entier."
+    },
+    "section4": {
+      "h2": "Voitures",
+      "button": "En savoir plus"
+    },
+    "section5": {
+      "h2": "Notre équipe",
+      "name1": "Jasur Saidinov",
+      "work1": "Responsable des ventes",
+      "name2": "Aziz Maksudov",
+      "work2": "Directeur",
+      "name3": "Jasurbek Jamolov",
+      "work3": "Responsable SMM et Web",
+      "name4": "Hasan Abdukhakharov",
+      "work4": "Technicien"
+    },
+    "section6": {
+      "h2": "Vous êtes intéressé ? Parlons-en",
+      "btn1": "Formulaire de contact",
+      "btn2": "Google Map",
+      "btn3": "Mes Commentaires",
+      "inpLabel1": "Nom",
+      "inpPlec1": "votre nom",
+      "inpLabel2": "Téléphone",
+      "inpLabel3": "Entrez un message",
+      "inpPlec3": "Pouvez-vous me parler de Byd Khan",
+      "formbtn": "Envoyer"
+    }
+  },
+  "footer": {
+    "footertop": {
+      "h2": "Liens",
+      "h22": "Vous avez des questions ?",
+      "h222": "Adresse",
+      "p": "Ville de Tachkent, district d'Almazor, petite rocade 1, en face de l'Université polytechnique de Turin"
+    },
+    "footerbottom": {
+      "created": "développé par",
+      "a1": "Conditions d'utilisation",
+      "a2": "Politique de confidentialité",
+      "a3": "Laisser un commentaire"
+    }
+  },
+  "Login": {
+    "h1": "Bonjour, ravi de vous revoir",
+    "h3": "Si vous n'avez pas de compte",
+    "a": "Inscrivez-vous",
+    "plec1": "Nom d'utilisateur",
+    "plec2": "Mot de passe",
+    "button": "Envoyer"
+  },
+  "Register": {
+    "h1": "Créer un compte",
+    "h3": "Si vous avez un compte",
+    "a": "Se connecter",
+    "plec3": "Prénom",
+    "plec4": "Nom de famille",
+    "plec5": "Âge"
+  }
+}
